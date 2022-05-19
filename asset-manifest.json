@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/yasermoamd/static/css/main.a18a3531.css",
+    "main.js": "/yasermoamd/static/js/main.93311bc6.js",
+    "index.html": "/yasermoamd/index.html",
+    "main.a18a3531.css.map": "/yasermoamd/static/css/main.a18a3531.css.map",
+    "main.93311bc6.js.map": "/yasermoamd/static/js/main.93311bc6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a18a3531.css",
+    "static/js/main.93311bc6.js"
+  ]
+}
